@@ -2,7 +2,7 @@
 
 Full-stack software engineer from Surabaya, Indonesia. I build web apps with **Laravel** and **Next.js**, and add AI features where they actually help.
 
-**Portfolio with case studies and screenshots: [wiryawonggo.huatalkcenter.com](https://wiryawonggo.huatalkcenter.com)**
+**Portfolio with case studies and screenshots: [wiryawonggo.huatalkcenter.com](https://wiryawonggo.com)**
 
 - 🚢 Software Engineer at **PT Salam Pacific Indonesia Lines**: maintaining finance systems used by branches across Indonesia
 - 🛠️ Freelance full-stack developer: products running in production for small businesses
